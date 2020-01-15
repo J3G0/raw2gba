@@ -21,6 +21,7 @@ To convert a raw file to a .h file for usage in programming for a GBA you use th
 ```
 raw2gba sound.raw
 ```
+(Path variables might need to be added if an error occurs)
 
 ## License
 
